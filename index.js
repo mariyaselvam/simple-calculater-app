@@ -20,7 +20,7 @@ function calculate(){
     catch{
         alert("Invalid");
     }
-};
+};   
 
 // clear input value one by one 
 function del(){
